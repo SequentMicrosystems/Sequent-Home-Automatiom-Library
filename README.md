@@ -3,7 +3,7 @@ Arduino library for Sequent Microsystems [Home Automation 8-Layer Stackable HAT 
 
 ## Install
 ### Library manager
-Go to **Tools**>>**Manage Libraries..** menu and search for *SM_LCDAdapter* and click install 
+Go to **Tools**>>**Manage Libraries..** menu and search for *Sequent Home Automation HAT* and click install 
 ### Manual install
 To download click <>Code > [Download ZIP](https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library/archive/refs/heads/main.zip) button from the main [page](https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library), rename the uncompressed folder to "SM_Home_Automation" 
 and copy to the libraries subdirectory of your sketchbook directory ("This PC > Documents > Arduino > libraries" for a Windows PC
